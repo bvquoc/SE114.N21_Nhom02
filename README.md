@@ -11,7 +11,7 @@
 1. [Bùi Vĩ Quốc](https://github.com/bvquoc) - 21520095
 2. [Trương Văn Hoàng Sơn](https://github.com/tvhson) - 21520101
 3. [Nguyễn Nguyên Khôi](https://github.com/Khooiiiii) - 21521010
-4. [Huỳnh Thành Nam](https://github.com/ThNam203)
+4. [Huỳnh Thành Nam](https://github.com/ThNam203) - 21522356
 5. [Phạm Tiến Đạt](https://github.com/ptdat4823) - 21521949
 
 **Giáo viên hướng dẫn:** Nguyễn Tấn Toàn
