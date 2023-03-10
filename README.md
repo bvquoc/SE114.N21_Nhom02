@@ -12,7 +12,7 @@
 2. [Trương Văn Hoàng Sơn](https://github.com/tvhson) - 21520101
 3. [Nguyễn Nguyên Khôi](https://github.com/Khooiiiii) - 21521010
 4. [Huỳnh Thành Nam](https://github.com/ThNam203)
-5. [Phạm Tiến Đạt](https://github.com/ptdat4823)
+5. [Phạm Tiến Đạt](https://github.com/ptdat4823) - 21521949
 
 **Giáo viên hướng dẫn:** Nguyễn Tấn Toàn
 
